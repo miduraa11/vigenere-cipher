@@ -90,7 +90,7 @@ public class TransformCode extends EncryptOrDecrypt  {
 		return getTransformedSentence();
 	}
 	
-	// METHOD RETURND TRANSFORMED KEY WHICH IS NEEDED TO DECODE OURMESSAGE
+	// METHOD RETURND TRANSFORMED KEY WHICH IS NEEDED TO DECODE OUR MESSAGE
 	
 	public String transformKey(String key) {
 		
